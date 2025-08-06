@@ -22,6 +22,7 @@
 6. Остановите проект. В качестве ответа приложите скриншот sql-запроса.
 
 ![Задача 3](https://github.com/vladrabbit/shwirdt-local/blob/main/img/docker1.1.png)
+
 ---
 
 ## Задача 4
@@ -89,6 +90,7 @@ sudo docker compose -f "$DOCKER_COMPOSE_FILENAME" up -d --build
 ## Задача 6 Решение
 
 ---
+
 ![Задача 6](https://github.com/vladrabbit/shwirdt-local/blob/main/img/docker3.1.png)
 
 ![Задача 6](https://github.com/vladrabbit/shwirdt-local/blob/main/img/docker3.2.png)
@@ -96,6 +98,7 @@ sudo docker compose -f "$DOCKER_COMPOSE_FILENAME" up -d --build
 ![Задача 6](https://github.com/vladrabbit/shwirdt-local/blob/main/img/docker3.3.png)
 
 ![Задача 6](https://github.com/vladrabbit/shwirdt-local/blob/main/img/docker3.4.png)
+
 ---
 
 ## Задача 6.1
@@ -105,6 +108,7 @@ sudo docker compose -f "$DOCKER_COMPOSE_FILENAME" up -d --build
 ## Задача 6.1 Решение
 
 ---
+
 ![Задача 6.1](https://github.com/vladrabbit/shwirdt-local/blob/main/img/docker4.1.png)
 
 ---
